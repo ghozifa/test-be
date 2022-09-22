@@ -1,0 +1,161 @@
+{
+  "Initiator": [
+    {
+      "id": 1,
+      "username": "Budi",
+      "budget": 10000000
+    }
+  ],
+  "Participant": [
+    {
+      "id": 1,
+      "name": "@dila",
+      "views": 2500,
+      "status": "Approved"
+    },
+    {
+      "id": 2,
+      "name": "@donnie",
+      "views": 150,
+      "status": "Rejected"
+    },
+    {
+      "id": 3,
+      "name": "@marsha",
+      "views": 5000,
+      "status": "Approved"
+    },
+    {
+      "id": 4,
+      "name": "@anita",
+      "views": 3200,
+      "status": "Approved"
+    },
+    {
+      "id": 5,
+      "name": "@lina",
+      "views": 208,
+      "status": "Approved"
+    },
+    {
+      "id": 6,
+      "name": "@dhika",
+      "views": 1600,
+      "status": "Approved"
+    },
+    {
+      "id": 7,
+      "name": "@amel",
+      "views": 15000,
+      "status": "Approved"
+    },
+    {
+      "id": 8,
+      "name": "@adi",
+      "views": 75,
+      "status": "Rejected"
+    },
+    {
+      "id": 9,
+      "name": "@gerry",
+      "views": 4000,
+      "status": "Approved"
+    },
+    {
+      "id": 10,
+      "name": "@noval",
+      "views": 10100,
+      "status": "Approved"
+    },
+    {
+      "name": "@Annesia",
+      "views": 0,
+      "status": "Rejected",
+      "id": 11
+    }
+  ],
+  "Admin": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "password": "$2a$10$K5e2IU7PPUvmhpjHe6D1fek8oK7mLd.l6oAOpDNIDDUcZuGNI/Ihy"
+    },
+    {
+      "username": "Admin2",
+      "password": "$2a$10$K5e2IU7PPUvmhpjHe6D1fek8oK7mLd.l6oAOpDNIDDUcZuGNI/Ihy",
+      "id": 2
+    }
+  ],
+  "challenge": [
+    {
+      "InitiatorId": 1,
+      "name": "Coding for Fun",
+      "duedate": "2022-09-25T00:00:00.000Z",
+      "budget": 10000000,
+      "rewardBudget": 905000,
+      "submission": [
+        {
+          "id": 1,
+          "name": "@dila",
+          "views": 2500,
+          "status": "Approved"
+        },
+        {
+          "id": 2,
+          "name": "@donnie",
+          "views": 150,
+          "status": "Rejected"
+        },
+        {
+          "id": 3,
+          "name": "@marsha",
+          "views": 5000,
+          "status": "Approved"
+        },
+        {
+          "id": 4,
+          "name": "@anita",
+          "views": 3200,
+          "status": "Approved"
+        },
+        {
+          "id": 5,
+          "name": "@lina",
+          "views": 208,
+          "status": "Approved"
+        },
+        {
+          "id": 6,
+          "name": "@dhika",
+          "views": 1600,
+          "status": "Approved"
+        },
+        {
+          "id": 7,
+          "name": "@amel",
+          "views": 15000,
+          "status": "Approved"
+        },
+        {
+          "id": 8,
+          "name": "@adi",
+          "views": 75,
+          "status": "Rejected"
+        },
+        {
+          "id": 9,
+          "name": "@gerry",
+          "views": 4000,
+          "status": "Approved"
+        },
+        {
+          "id": 10,
+          "name": "@noval",
+          "views": 10100,
+          "status": "Approved"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
